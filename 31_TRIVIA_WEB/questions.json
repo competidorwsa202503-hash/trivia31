@@ -1,0 +1,91 @@
+[
+  {
+    "id": 1,
+    "category": "HTML",
+    "question": "¿Qué etiqueta HTML se utiliza para insertar una hoja de estilo externa?",
+    "options": ["<style>", "<css>", "<link>", "<stylesheet>"],
+    "answer": 2
+  },
+  {
+    "id": 2,
+    "category": "HTML",
+    "question": "¿Qué atributo se usa para abrir un enlace en una nueva pestaña?",
+    "options": ["target='_blank'", "newtab", "window='_blank'", "open=new"],
+    "answer": 0
+  },
+  {
+    "id": 3,
+    "category": "HTML",
+    "question": "¿Cuál de las siguientes etiquetas define una tabla en HTML?",
+    "options": ["<thead>", "<tbody>", "<table>", "<tab>"],
+    "answer": 2
+  },
+  {
+    "id": 4,
+    "category": "CSS",
+    "question": "¿Qué propiedad CSS se usa para cambiar el color del texto?",
+    "options": ["font-color", "text-style", "color", "font-style"],
+    "answer": 2
+  },
+  {
+    "id": 5,
+    "category": "CSS",
+    "question": "¿Cuál es la propiedad para convertir un contenedor en flexbox?",
+    "options": ["display: grid;", "display: flex;", "position: flex;", "layout: flex;"],
+    "answer": 1
+  },
+  {
+    "id": 6,
+    "category": "CSS",
+    "question": "¿Qué propiedad define el espacio exterior de un elemento?",
+    "options": ["padding", "margin", "gap", "border"],
+    "answer": 1
+  },
+  {
+    "id": 7,
+    "category": "CSS",
+    "question": "¿Qué significa la unidad 'em' en CSS?",
+    "options": [
+      "Medida fija en píxeles",
+      "Altura del contenedor padre",
+      "Tamaño relativo a la fuente del elemento padre",
+      "Tamaño relativo a la raíz del documento"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 8,
+    "category": "JavaScript",
+    "question": "¿Cuál de las siguientes NO es una forma válida de declarar una variable en JavaScript?",
+    "options": ["var", "let", "const", "define"],
+    "answer": 3
+  },
+  {
+    "id": 9,
+    "category": "JavaScript",
+    "question": "¿Qué método se usa para imprimir un mensaje en la consola?",
+    "options": ["console.write()", "console.log()", "log.console()", "print.console()"],
+    "answer": 1
+  },
+  {
+    "id": 10,
+    "category": "JavaScript",
+    "question": "¿Qué operador se usa para comparar tanto el valor como el tipo de dos variables?",
+    "options": ["==", "===", "!=", "="],
+    "answer": 1
+  },
+  {
+    "id": 11,
+    "category": "JavaScript",
+    "question": "¿Qué estructura se utiliza para recorrer los elementos de un array?",
+    "options": ["loop()", "for", "iterate()", "mapAll()"],
+    "answer": 1
+  },
+  {
+    "id": 12,
+    "category": "JavaScript",
+    "question": "¿Qué devuelve la función typeof []?",
+    "options": ["'array'", "'object'", "'list'", "'collection'"],
+    "answer": 1
+  }
+]
